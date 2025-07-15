@@ -1,0 +1,14 @@
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\bin\Debug\net8.0-windows\DialogTree.exe
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\bin\Debug\net8.0-windows\DialogTree.deps.json
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\bin\Debug\net8.0-windows\DialogTree.runtimeconfig.json
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\bin\Debug\net8.0-windows\DialogTree.dll
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\bin\Debug\net8.0-windows\DialogTree.pdb
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\obj\Debug\net8.0-windows\DialogTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\obj\Debug\net8.0-windows\DialogTree.AssemblyInfoInputs.cache
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\obj\Debug\net8.0-windows\DialogTree.AssemblyInfo.cs
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\obj\Debug\net8.0-windows\DialogTree.csproj.CoreCompileInputs.cache
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\obj\Debug\net8.0-windows\DialogTree.dll
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\obj\Debug\net8.0-windows\refint\DialogTree.dll
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\obj\Debug\net8.0-windows\DialogTree.pdb
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\obj\Debug\net8.0-windows\DialogTree.genruntimeconfig.cache
+C:\Users\MARIA JESUS\Downloads\VIRUS_LETALES\DialogTree\DialogTree\obj\Debug\net8.0-windows\ref\DialogTree.dll
