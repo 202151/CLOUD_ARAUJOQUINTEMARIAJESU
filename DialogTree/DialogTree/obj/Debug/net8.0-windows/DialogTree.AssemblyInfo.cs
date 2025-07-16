@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DialogTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ce9cfd8f84488a482bc55b3dc2d9caf048a4c07")]
 [assembly: System.Reflection.AssemblyProductAttribute("DialogTree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DialogTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
